@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Naveenakkineni7032/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Naveenakkineni7032/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Naveenakkineni7032/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Naveenakkineni7032/leetcode/tree/master/0326-power-of-three) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Naveenakkineni7032/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveenakkineni7032/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Naveenakkineni7032/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/0777-toeplitz-matrix) |
