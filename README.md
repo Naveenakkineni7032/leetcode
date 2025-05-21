@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Naveenakkineni7032/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3639-zero-array-transformation-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Recursion
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Naveenakkineni7032/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
