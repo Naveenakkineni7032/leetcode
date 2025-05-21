@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Naveenakkineni7032/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Naveenakkineni7032/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3321-type-of-triangle](https://github.com/Naveenakkineni7032/leetcode/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3321-type-of-triangle](https://github.com/Naveenakkineni7032/leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Naveenakkineni7032/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Naveenakkineni7032/leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0861-flipping-an-image) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -114,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Naveenakkineni7032/leetcode/tree/master/3321-type-of-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
