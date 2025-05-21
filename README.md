@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Naveenakkineni7032/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2551-apply-operations-to-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Naveenakkineni7032/leetcode/tree/master/3321-type-of-triangle) |
@@ -117,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0861-flipping-an-image) |
+| [2551-apply-operations-to-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
