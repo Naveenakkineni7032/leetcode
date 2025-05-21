@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -137,5 +138,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Naveenakkineni7032/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
