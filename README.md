@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3321-type-of-triangle](https://github.com/Naveenakkineni7032/leetcode/tree/master/3321-type-of-triangle) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Naveenakkineni7032/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Naveenakkineni7032/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Naveenakkineni7032/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Naveenakkineni7032/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Naveenakkineni7032/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
