@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Naveenakkineni7032/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveenakkineni7032/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Naveenakkineni7032/leetcode/tree/master/1013-fibonacci-number) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Naveenakkineni7032/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
