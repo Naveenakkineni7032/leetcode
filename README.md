@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Naveenakkineni7032/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2551-apply-operations-to-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Naveenakkineni7032/leetcode/tree/master/3321-type-of-triangle) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Naveenakkineni7032/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Naveenakkineni7032/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Naveenakkineni7032/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0861-flipping-an-image) |
 | [2551-apply-operations-to-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
