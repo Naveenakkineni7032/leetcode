@@ -189,8 +189,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Naveenakkineni7032/leetcode/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
