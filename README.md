@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Naveenakkineni7032/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Naveenakkineni7032/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Naveenakkineni7032/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Naveenakkineni7032/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Naveenakkineni7032/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Naveenakkineni7032/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Naveenakkineni7032/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
