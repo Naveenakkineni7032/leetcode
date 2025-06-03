@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Naveenakkineni7032/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Naveenakkineni7032/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Naveenakkineni7032/leetcode/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Naveenakkineni7032/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Naveenakkineni7032/leetcode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Naveenakkineni7032/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
