@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Naveenakkineni7032/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Naveenakkineni7032/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naveenakkineni7032/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Naveenakkineni7032/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Naveenakkineni7032/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Naveenakkineni7032/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Naveenakkineni7032/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Stack
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Naveenakkineni7032/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Naveenakkineni7032/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
