@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Naveenakkineni7032/leetcode/tree/master/0861-flipping-an-image) |
 | [2551-apply-operations-to-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Naveenakkineni7032/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Naveenakkineni7032/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/Naveenakkineni7032/leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Naveenakkineni7032/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
