@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naveenakkineni7032/leetcode/tree/master/0020-valid-parentheses) |
+| [0649-dota2-senate](https://github.com/Naveenakkineni7032/leetcode/tree/master/0649-dota2-senate) |
 | [1524-string-matching-in-an-array](https://github.com/Naveenakkineni7032/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Naveenakkineni7032/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Naveenakkineni7032/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Naveenakkineni7032/leetcode/tree/master/0135-candy) |
+| [0649-dota2-senate](https://github.com/Naveenakkineni7032/leetcode/tree/master/0649-dota2-senate) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Naveenakkineni7032/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -263,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Naveenakkineni7032/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Naveenakkineni7032/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
