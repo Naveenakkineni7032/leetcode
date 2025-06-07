@@ -16,6 +16,5 @@ class Solution {
             else dire.add(indOfD + n);
         }
         return radiant.isEmpty() ? "Dire" : "Radiant";
-
     }
 }
